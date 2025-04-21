@@ -1,2 +1,2 @@
-# -chart-giropops-senhas
+# chart-giropops-senhas
 Helm chart para o Giropops  Senhas
