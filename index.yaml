@@ -3,13 +3,13 @@ entries:
   giropops-senhas:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-04-21T14:11:25.700575465-03:00"
+    created: "2025-04-21T16:52:50.736894237-03:00"
     description: Gerador de senhas
-    digest: 27da87e997100f8a078fd88116ffa741abb676f3cf9293354f23731a828e4c9b
+    digest: 57344126a440c0b8c5bc0cb650ccb3b994b6432232fc53626cb134398f4606d3
     name: giropops-senhas
     sources:
     - https://github.com/badtuxx/giropops-senhas
     urls:
-    - https://github.com/ferpaesdias/chart-giropops-senhas/giropops-senhas-0.1.0.tgz
+    - https://ferpaesdias.github.io/chart-giropops-senhas/giropops-senhas-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-21T14:11:25.699754929-03:00"
+generated: "2025-04-21T16:52:50.73608301-03:00"
